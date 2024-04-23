@@ -7,6 +7,7 @@ Google
 Microsoft
 Quora
 Uber'''
+jhg
 
 # DESCRIPTION OF PROGRAM
 # Peak elements of an array are the elements that are greater than their adjacent elements.
